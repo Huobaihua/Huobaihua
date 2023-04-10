@@ -27,3 +27,6 @@
     
  <br>
 <h1 align="center">With a smile, warm the wayTo see the sea together, to love life together!</h1>
+<p align="center">
+  <img src="Thankyou.jpg" alt="edisonlee55 Banner"></a>
+</p>
